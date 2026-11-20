@@ -22,28 +22,28 @@ I’m an XR and VR developer and an AI agent developer studying Artificial Intel
 
 <table>
   <tr>
-    <td width="38%"><a href="https://deematm.github.io/portfolio/#work"><img src="assets/p-firefighters.webp" width="100%" alt="Firefighters VR dispatch workstation from the player's point of view"></a></td>
-    <td><b>Firefighters VR</b><br><sub>MULTIPLAYER VR · IOT</sub><br>A two-player emergency-response game with a physical steering wheel and an Arduino alarm light.</td>
+    <td width="180" valign="top"><a href="https://deematm.github.io/portfolio/#work"><img src="assets/p-firefighters.webp" width="180" alt="Firefighters VR dispatch workstation from the player's point of view"></a></td>
+    <td valign="top"><b>Firefighters VR</b><br><sub>MULTIPLAYER VR · IOT</sub><br>A two-player emergency-response game with a physical steering wheel and an Arduino alarm light.</td>
   </tr>
   <tr>
-    <td width="38%"><a href="https://deematm.github.io/portfolio/#work"><img src="assets/p-musical.webp" width="100%" alt="Turquoise and purple crystals on a neon rhythm runway in Musical VR"></a></td>
-    <td><b>Musical VR</b><br><sub>HEADSET VR · RHYTHM GAME</sub><br>A Japanese-inspired VR rhythm game with a sakura village lobby and playable drum and piano lessons.</td>
+    <td width="180" valign="top"><a href="https://deematm.github.io/portfolio/#work"><img src="assets/p-musical.webp" width="180" alt="Turquoise and purple crystals on a neon rhythm runway in Musical VR"></a></td>
+    <td valign="top"><b>Musical VR</b><br><sub>HEADSET VR · RHYTHM GAME</sub><br>A Japanese-inspired VR rhythm game with a sakura village lobby and playable drum and piano lessons.</td>
   </tr>
   <tr>
-    <td width="38%"><a href="https://deematm.github.io/portfolio/#work"><img src="assets/p-ar-racing.webp" width="100%" alt="A car rounds a corner on the AR racing track with the timer running"></a></td>
-    <td><b>AR Racing</b><br><sub>MOBILE AR · TIME TRIAL</sub><br>A two-player time trial on a custom racetrack placed on the floor through the phone camera.</td>
+    <td width="180" valign="top"><a href="https://deematm.github.io/portfolio/#work"><img src="assets/p-ar-racing.webp" width="180" alt="A car rounds a corner on the AR racing track with the timer running"></a></td>
+    <td valign="top"><b>AR Racing</b><br><sub>MOBILE AR · TIME TRIAL</sub><br>A two-player time trial on a custom racetrack placed on the floor through the phone camera.</td>
   </tr>
   <tr>
-    <td width="38%"><a href="https://deematm.github.io/portfolio/#work"><img src="assets/p-satar.webp" width="100%" alt="SATAR team poster title and Arabthon track"></a></td>
-    <td><b>SATAR</b><br><sub>TEAM PROJECT · ARABIC NLP / ARABTHON</sub><br>An Arabthon project that restores punctuation to Arabic text using linguistic context.</td>
+    <td width="180" valign="top"><a href="https://deematm.github.io/portfolio/#work"><img src="assets/p-satar.webp" width="180" alt="SATAR team poster title and Arabthon track"></a></td>
+    <td valign="top"><b>SATAR</b><br><sub>TEAM PROJECT · ARABIC NLP / ARABTHON</sub><br>An Arabthon project that restores punctuation to Arabic text using linguistic context.</td>
   </tr>
   <tr>
-    <td width="38%"><a href="https://deematm.github.io/portfolio/#work"><img src="assets/p-parking.webp" width="100%" alt="JavaFX parking form showing a confirmed reservation and receipt"></a></td>
-    <td><b>Smart Parking System</b><br><sub>COURSE TEAM PROJECT · JAVA / JAVAFX</sub><br>A Java application for tracking vehicles, parking reservations, and payments.<br><a href="https://deematm.github.io/portfolio/assets/smart-parking-system.pdf">Full report (PDF) ↗</a></td>
+    <td width="180" valign="top"><a href="https://deematm.github.io/portfolio/#work"><img src="assets/p-parking.webp" width="180" alt="JavaFX parking form showing a confirmed reservation and receipt"></a></td>
+    <td valign="top"><b>Smart Parking System</b><br><sub>COURSE TEAM PROJECT · JAVA / JAVAFX</sub><br>A Java application for tracking vehicles, parking reservations, and payments.<br><a href="https://deematm.github.io/portfolio/assets/smart-parking-system.pdf">Full report (PDF) ↗</a></td>
   </tr>
   <tr>
-    <td width="38%"><a href="https://onlysnsd1.blogspot.com/?m=1"><img src="assets/p-only-snsd.webp" width="100%" alt="Only SNSD homepage showing its banner, Arabic navigation, and Yoo Quiz post"></a></td>
-    <td><b>Only SNSD</b><br><sub>WEB PUBLISHING · ARABIC SUBTITLES</sub><br>An SNSD fan hub I customized on Blogger, with Arabic-subtitled Korean variety episodes.<br><a href="https://onlysnsd1.blogspot.com/?m=1">Visit Only SNSD ↗</a></td>
+    <td width="180" valign="top"><a href="https://onlysnsd1.blogspot.com/?m=1"><img src="assets/p-only-snsd.webp" width="180" alt="Only SNSD homepage showing its banner, Arabic navigation, and Yoo Quiz post"></a></td>
+    <td valign="top"><b>Only SNSD</b><br><sub>WEB PUBLISHING · ARABIC SUBTITLES</sub><br>An SNSD fan hub I customized on Blogger, with Arabic-subtitled Korean variety episodes.<br><a href="https://onlysnsd1.blogspot.com/?m=1">Visit Only SNSD ↗</a></td>
   </tr>
 </table>
 
